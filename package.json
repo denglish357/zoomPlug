@@ -1,0 +1,25 @@
+{
+  "name": "zoomrecreate",
+  "version": "1.0.0",
+  "description": "\"recreation of zoomplugin for easier installation\"",
+  "main": "ChartJSEnhancements.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denglish357/zoomPlug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denglish357/zoomPlug/issues"
+  },
+  "homepage": "https://github.com/denglish357/zoomPlug#readme"
+}
